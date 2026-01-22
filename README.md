@@ -10,6 +10,6 @@ prints text in the center.
 - Centered text
 
 ## Build and Run:
-nasm -f elf64 frame.asm -o frame.o
-ld frame.o -o frame
-./frame
+- nasm -f elf64 frame.asm -o frame.o
+- ld frame.o -o frame
+- ./frame
