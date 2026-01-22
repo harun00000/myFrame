@@ -2,7 +2,7 @@ global _start
 
 section .bss
 buffer resq 8       
-height resq 1       ; reserve 64 bytes
+height resq 1        ; reserve 8 bytes
 width resq 1
 sym resb 1
 text resq 8
